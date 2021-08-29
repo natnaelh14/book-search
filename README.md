@@ -1,6 +1,5 @@
 
 ## Book Search
-![alt text](https://img.shields.io/github/last-commit/natnael14/-portfolio-website)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 In this project, I took Google Books API search engine built with a RESTful API and recreated same functionality using GraphQL API and Apollo Server.
